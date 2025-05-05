@@ -42,7 +42,8 @@ Example (JSON):
 }
 ```
 
-Encoded in Base64URL:
+Encoded in Base64URL
+(Base64 is a binary-to-text encoding scheme that is used to encode binary data (like images, files, or complex data) into an ASCII string format by converting it into a radix-64 representation.):
 ```
 eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkFha2FzaCIsImFkbWluIjp0cnVlLCJpYXQiOjE3MTQ4OTYwMDB9
 ```
@@ -106,8 +107,24 @@ You can store the token in:
 
 - Stateless and scalable (no session storage needed)
 - Great for Single Page Apps (SPAs) and mobile apps
-- Supports Single Sign-On (SSO)
+- Supports Single Sign-On (SSO) 
 - Built-in expiry and payload claims
+
+## SSO
+SSO (Single Sign-On) is an authentication system that allows a user to log in once and then access multiple applications or services without having to log in again for each one.
+
+###🧑‍💻 Simple Example:
+Imagine Aakash logs in to his Google Account once.
+
+After that, he can access:
+
+Gmail
+YouTube
+Google Drive
+Google Docs
+-
+without logging in again for each service.
+-That’s SSO in action! ✅
 
 ## ⚠️ Security Notes
 
