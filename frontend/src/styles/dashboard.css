@@ -1,0 +1,63 @@
+.dashboard-container {
+  position: relative;
+  height: 100vh;
+  background: linear-gradient(to right, #ff9966, #ff5e62);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logout-button {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  background-color: #ffffff;
+  color: #ff5e62;
+  border: 2px solid #ff5e62;
+  padding: 8px 14px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.logout-button:hover {
+  background-color: #ff5e62;
+  color: white;
+}
+
+.dashboard-card {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  width: 350px;
+}
+
+.dashboard-title {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.dashboard-button {
+  padding: 12px 20px;
+  background-color: #ff5e62;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.dashboard-button:hover {
+  background-color: #e84c4f;
+}
+
+.dashboard-message {
+  margin-top: 20px;
+  color: #222;
+  font-size: 16px;
+}
