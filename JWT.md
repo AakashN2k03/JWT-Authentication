@@ -124,8 +124,7 @@ After that, he can access:
 - Google Drive
 - Google Docs
 
-- without logging in again for each service.
--That’s SSO in action! ✅
+ without logging in again for each service. - > That’s SSO in action! ✅
 
 ## ⚠️ Security Notes
 
