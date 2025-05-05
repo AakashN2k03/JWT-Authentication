@@ -114,17 +114,17 @@ You can store the token in:
 ## SSO
 SSO (Single Sign-On) is an authentication system that allows a user to log in once and then access multiple applications or services without having to log in again for each one.
 
-###🧑‍💻 Simple Example:
+### 🧑‍💻 Simple Example:
 Imagine Aakash logs in to his Google Account once.
 
 After that, he can access:
 
-Gmail
-YouTube
-Google Drive
-Google Docs
--
-without logging in again for each service.
+- Gmail
+- YouTube
+- Google Drive
+- Google Docs
+
+- without logging in again for each service.
 -That’s SSO in action! ✅
 
 ## ⚠️ Security Notes
