@@ -42,8 +42,9 @@ Example (JSON):
 }
 ```
 
-Encoded in Base64URL
-(Base64 is a binary-to-text encoding scheme that is used to encode binary data (like images, files, or complex data) into an ASCII string format by converting it into a radix-64 representation.):
+Encoded in Base64URL:
+
+- (Base64 is a binary-to-text encoding scheme that is used to encode binary data (like images, files, or complex data) into an ASCII string format by converting it into a radix-64 representation.)
 ```
 eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkFha2FzaCIsImFkbWluIjp0cnVlLCJpYXQiOjE3MTQ4OTYwMDB9
 ```
